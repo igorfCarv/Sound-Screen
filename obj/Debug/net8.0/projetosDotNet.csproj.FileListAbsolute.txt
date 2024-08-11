@@ -1,0 +1,14 @@
+C:\Users\Igor\Downloads\projetosDotNet\bin\Debug\net8.0\projetosDotNet.exe
+C:\Users\Igor\Downloads\projetosDotNet\bin\Debug\net8.0\projetosDotNet.deps.json
+C:\Users\Igor\Downloads\projetosDotNet\bin\Debug\net8.0\projetosDotNet.runtimeconfig.json
+C:\Users\Igor\Downloads\projetosDotNet\bin\Debug\net8.0\projetosDotNet.dll
+C:\Users\Igor\Downloads\projetosDotNet\bin\Debug\net8.0\projetosDotNet.pdb
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.AssemblyInfoInputs.cache
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.AssemblyInfo.cs
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.dll
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\refint\projetosDotNet.dll
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.pdb
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\projetosDotNet.genruntimeconfig.cache
+C:\Users\Igor\Downloads\projetosDotNet\obj\Debug\net8.0\ref\projetosDotNet.dll
